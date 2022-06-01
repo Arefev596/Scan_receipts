@@ -1,0 +1,153 @@
+{
+   "code": 1,
+   "data": {
+      "json": {
+         "code": 3,
+         "user": "Акционерное общество \"Тандер\"",
+         "items": [
+            {
+               "nds": 1,
+               "sum": 1,
+               "name": "Пакет-майка Магнит ИМ",
+               "price": 1,
+               "ndsSum": 0,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 2,
+               "sum": 11495,
+               "name": "ВИНОГРАД Белый 1кг",
+               "price": 22990,
+               "ndsSum": 1045,
+               "quantity": 0.5,
+               "paymentType": 4
+            },
+            {
+               "nds": 2,
+               "sum": 6630,
+               "name": "ОГУРЦЫ гладкие 1кг",
+               "price": 14999,
+               "ndsSum": 603,
+               "quantity": 0.442,
+               "paymentType": 4
+            },
+            {
+               "nds": 2,
+               "sum": 10167,
+               "name": "ТОМАТЫ 1кг",
+               "price": 22199,
+               "ndsSum": 924,
+               "quantity": 0.458,
+               "paymentType": 4
+            },
+            {
+               "nds": 2,
+               "sum": 13999,
+               "name": "САНТА БРЕМОР Коктейль из морепрод Мо",
+               "price": 13999,
+               "ndsSum": 1273,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 2599,
+               "name": "MAGGI Горячая кружка Суп курица с су",
+               "price": 2599,
+               "ndsSum": 433,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 1699,
+               "name": "MAGGI Горячая кружка Суп грибной с с",
+               "price": 1699,
+               "ndsSum": 283,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 2,
+               "sum": 24990,
+               "name": "БАЛТИЙСКИЙ БЕРЕГ Скумбрия атлант х/к",
+               "price": 24990,
+               "ndsSum": 2272,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 1799,
+               "name": "FELIX Корм для кошек влажн суп куриц",
+               "price": 1799,
+               "ndsSum": 300,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 1699,
+               "name": "KNORR Чашка Супа Сырный с сухариками",
+               "price": 1699,
+               "ndsSum": 283,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 1549,
+               "name": "KITEKAT Корм д/кош желе курица 85г п",
+               "price": 1549,
+               "ndsSum": 258,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 1549,
+               "name": "KITEKAT Корм д/кош c говядиной в соу",
+               "price": 1549,
+               "ndsSum": 258,
+               "quantity": 1,
+               "paymentType": 4
+            },
+            {
+               "nds": 1,
+               "sum": 1549,
+               "name": "KITEKAT Корм д/кош с кроликом в соус",
+               "price": 1549,
+               "ndsSum": 258,
+               "quantity": 1,
+               "paymentType": 4
+            }
+         ],
+         "nds10": 6117,
+         "nds18": 2073,
+         "fnsUrl": "www.nalog.ru",
+         "userInn": "2310031475  ",
+         "dateTime": "2022-03-07T20:36:00",
+         "kktRegId": "0004863420039282    ",
+         "operator": "Товаровед магазина Шрайбер",
+         "totalSum": 79725,
+         "creditSum": 0,
+         "fiscalSign": 1819697865,
+         "prepaidSum": 0,
+         "retailPlace": "Магазин  Магнит  Капица",
+         "shiftNumber": 312,
+         "cashTotalSum": 0,
+         "provisionSum": 0,
+         "taxationType": 1,
+         "ecashTotalSum": 79725,
+         "operationType": 1,
+         "requestNumber": 30,
+         "fiscalDriveNumber": "9280440301408671",
+         "retailPlaceAddress": "650066, Кемеровская обл, Кемерово г, Ленина пр-кт, дом № 67, помещение 130, помещение 135",
+         "appliedTaxationType": 1,
+         "fiscalDocumentNumber": 5074,
+         "fiscalDocumentFormatVer": 2
+      },
+      "html": "<table class=\"b-check_table table\"><tbody><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Акционерное общество \"Тандер\"</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">650066, Кемеровская обл, Кемерово г, Ленина пр-кт, дом № 67, помещение 130, помещение 135</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">ИНН 2310031475  </td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">&nbsp;</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">07.03.2022 20:36</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Чек № 30</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Смена № 312</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Кассир Товаровед магазина Шрайбер</td></tr><tr class=\"b-check_vblock-last b-check_center\"><td colspan=\"5\">Приход</td></tr><tr><td><strong>№</strong></td><td><strong>Название</strong></td><td><strong>Цена</strong></td><td><strong>Кол.</strong></td><td><strong>Сумма</strong></td></tr><tr class=\"b-check_item\"><td>1</td><td>Пакет-майка Магнит ИМ</td><td>0.01</td><td>1</td><td>0.01</td></tr><tr class=\"b-check_item\"><td>2</td><td>ВИНОГРАД Белый 1кг</td><td>229.90</td><td>0.5</td><td>114.95</td></tr><tr class=\"b-check_item\"><td>3</td><td>ОГУРЦЫ гладкие 1кг</td><td>149.99</td><td>0.442</td><td>66.30</td></tr><tr class=\"b-check_item\"><td>4</td><td>ТОМАТЫ 1кг</td><td>221.99</td><td>0.458</td><td>101.67</td></tr><tr class=\"b-check_item\"><td>5</td><td>САНТА БРЕМОР Коктейль из морепрод Мо</td><td>139.99</td><td>1</td><td>139.99</td></tr><tr class=\"b-check_item\"><td>6</td><td>MAGGI Горячая кружка Суп курица с су</td><td>25.99</td><td>1</td><td>25.99</td></tr><tr class=\"b-check_item\"><td>7</td><td>MAGGI Горячая кружка Суп грибной с с</td><td>16.99</td><td>1</td><td>16.99</td></tr><tr class=\"b-check_item\"><td>8</td><td>БАЛТИЙСКИЙ БЕРЕГ Скумбрия атлант х/к</td><td>249.90</td><td>1</td><td>249.90</td></tr><tr class=\"b-check_item\"><td>9</td><td>FELIX Корм для кошек влажн суп куриц</td><td>17.99</td><td>1</td><td>17.99</td></tr><tr class=\"b-check_item\"><td>10</td><td>KNORR Чашка Супа Сырный с сухариками</td><td>16.99</td><td>1</td><td>16.99</td></tr><tr class=\"b-check_item\"><td>11</td><td>KITEKAT Корм д/кош желе курица 85г п</td><td>15.49</td><td>1</td><td>15.49</td></tr><tr class=\"b-check_item\"><td>12</td><td>KITEKAT Корм д/кош c говядиной в соу</td><td>15.49</td><td>1</td><td>15.49</td></tr><tr class=\"b-check_item\"><td>13</td><td>KITEKAT Корм д/кош с кроликом в соус</td><td>15.49</td><td>1</td><td>15.49</td></tr><tr class=\"b-check_vblock-first\"><td colspan=\"3\" class=\"b-check_itogo\">ИТОГО:</td><td></td><td class=\"b-check_itogo\">797.25</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">Наличные</td><td></td><td>0.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">Карта</td><td></td><td>797.25</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">НДС итога чека со ставкой 20%</td><td></td><td>20.73</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">НДС итога чека со ставкой 10%</td><td></td><td>61.17</td></tr><tr class=\"b-check_vblock-last\"><td colspan=\"5\">ВИД НАЛОГООБЛОЖЕНИЯ: ОСН</td></tr><tr class=\"b-check_vblock-first\"><td colspan=\"5\">РЕГ.НОМЕР ККТ: 0004863420039282    </td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ЗАВОД. №: </td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФН: 9280440301408671</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФД: 5074</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФПД#: 1819697865</td></tr><tr class=\"b-check_vblock-last\"><td colspan=\"5\" class=\"b-check_center\"><img src=\"/qrcode/generate?text=t%3D20220307T2036%26s%3D797.25%26fn%3D9280440301408671%26i%3D5074%26fp%3D1819697865%26n%3D1\" alt=\"QR код чека\" width=\"35%\" loading=\"lazy\" decoding=\"async\"></td></tr></tbody></table>"
+   }
+}
